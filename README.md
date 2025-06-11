@@ -61,7 +61,7 @@ Get the _react-print_ component library.
 ### With npm
 
 ```sh npm
-npm install @fileforge/react-print
+npm install @fileforge
 ```
 
 ### With yarn
